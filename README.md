@@ -4,11 +4,9 @@ Full-stack Developer | Java Spring Boot Enthusiast | Cloud & DevOps Explorer
 
 <p align="left">
   <a href="https://github.com/kietdz0505">
-    <img src="https://komarev.com/ghpvc/?username=kietdz0505&color=purple&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kietdz0505&color=8a2be2&style=flat-square&label=%F0%9F%91%81%20%20PROFILE%20VIEWS%20%20%E2%96%BA" alt="Profile Views" />
   </a>
 </p>
-
----
 
 ## 🚀 About Me
 A passionate Backend Engineer focused on building **scalable, high-performance web applications**, automating deployment pipelines, and optimizing cloud infrastructure. I love solving system design challenges, tuning database performance, and building resilient CI/CD workflows.
